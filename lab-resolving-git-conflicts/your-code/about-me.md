@@ -13,4 +13,4 @@
     will start improving myself doing some interviews for a new role
 * Which industry will you seek employment in? IT
 * What will your future role look like? as data scientist
-* What is your career goal? after working for a while, will see in a future.
+* What is your career goal? after working for a while, will see in a future. 
